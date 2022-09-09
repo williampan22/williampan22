@@ -1,4 +1,4 @@
-Junior at Westview High School!
+Senior at Westview High School!
 
 Took APCS in Java!
 
