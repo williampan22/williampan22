@@ -1,7 +1,9 @@
 
-Student at Northeastern University studying Computer Science + Math Minor. 
+Student at Northeastern University studying Computer Science.
 
-Experience building websites with 150+ users (PawHacks) and interning at a startup where I built out a video library, searching and filtering mechanism, and login/register with OAuth. 
+- Incoming Backend/Infrastructure Software Engineer Intern @ Databricks (Spring 2026).
+- Previous Backend Software Engineer Intern @ Zoox (Amazon's self driving car). 
+- Experience building websites with 150+ users (PawHacks).
 
 Skilled in 
 - Java, Kotlin, Python, Go, TypeScript, SQL (MySQL, PostgreSQL, SQLite), HTML, CSS
